@@ -1,2 +1,2 @@
-newStr = 'Hello World!'
+newStr = "Hello World!"
 print(newStr)
